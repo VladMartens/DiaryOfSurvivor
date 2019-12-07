@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AnimationController">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAARAAAQAAAAABAIAIAAAIIAgAKAAAABCAAASgAAAAI=</HashCode>
+      <FileName>Assets\Scripts\AnimationController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Board">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAQAQACAQBAoAQAAAABAAAAAAAAEAAAgQoIIABAA=</HashCode>
+      <FileName>Assets\Scripts\Board.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dot">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAcAAAAEECDAoBCBCQAAARICQgEgAAAAIAAAAAA2AAA=</HashCode>
+      <FileName>Assets\Scripts\Dot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FindMaches">
+    <Position X="7.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAIQKAAAAAAAAAIAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\FindMaches.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Level">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAACAAAAABAAIIgAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Level.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LevelMode">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AASIhACAAGAIQEABAEIACAAGAYkACAAwAACAAAAgAAI=</HashCode>
+      <FileName>Assets\Scripts\LevelMode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LootBox">
+    <Position X="14.5" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="LootBox.Direction_e" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Scripts\LootBox.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAKEgADQCAQABgIFAABAAAQAAIAQAAgACAAAEAAA=</HashCode>
+      <FileName>Assets\Scripts\LootBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LoseMenu">
+    <Position X="5.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAEAAAAAAAAAgAAAAAAIBAAAAAAQAgAAAAAAAAAAI=</HashCode>
+      <FileName>Assets\Scripts\LoseMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MainHero">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIIAAgAAACAAACAAAAIEAIAEQCADAAIAAIAI=</HashCode>
+      <FileName>Assets\Scripts\MainHero.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NumberStage">
+    <Position X="9.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAACAAIAAAAAAAAIAAAAAAAQAAAAAAAAAAAAE=</HashCode>
+      <FileName>Assets\Scripts\NumberStage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StartMenu">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIgAAAAACABAAAAAAAAAAAAAAEAIAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\StartMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Survival">
+    <Position X="14.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAIIgAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Survival.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SurvivalMode">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AASIhACAAGAIQEIBAEIACAAEAYgACAAwAACAAAAkACA=</HashCode>
+      <FileName>Assets\Scripts\SurvivalMode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tutorial">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAACAAAAAAAAAAAAAAAAAgAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Tutorial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Updates">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAIBAIAAATAFAQAAAABAAAgAAAAgIQQAIwACAAAQAEA=</HashCode>
+      <FileName>Assets\Scripts\Updates.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WinMenu">
+    <Position X="11" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAgAAAAAAIAAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\WinMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
